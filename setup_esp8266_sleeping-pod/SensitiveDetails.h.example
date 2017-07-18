@@ -1,0 +1,7 @@
+#ifndef __JIMMY_NEUTRON_SENSITIVE__
+#define __JIMMY_NEUTRON_SENSITIVE__
+
+#define NETWORK_SSID "xxxxx"
+#define NETWORK_PASSWORD "yyyyy"
+
+#endif

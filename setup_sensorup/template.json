@@ -1,0 +1,15 @@
+{ 
+    "name": "##NAME##", 
+    "description": "##DESCRIPTION##", 
+    "properties": {##PROPERTIES##}, 
+    "Locations": [ {
+        "description": "##LOCATION_DESC##", 
+        "name": "##LOCATION_NAME##", 
+        "location": { 
+            "type": "Point", 
+            "coordinates": [ ##COORDINATES## ] 
+        }, 
+        "encodingType": "application/vnd.geo+json" 
+    } ], 
+    "Datastreams": [ ##DATASTREAMS## ] 
+}
